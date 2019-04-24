@@ -1,0 +1,8 @@
+prefix=/home/azumi-suzuki/workspace/yaml_dsl/ros/devel
+
+Name: state_interpreter
+Description: Description of state_interpreter
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/azumi-suzuki/workspace/yaml_dsl/ros/devel/lib 
+Requires: roscpp sound_play std_msgs geometry_msgs diagnostic_msgs autoware_msgs autoware_config_msgs

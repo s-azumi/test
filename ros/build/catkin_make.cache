@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/azumi-suzuki/workspace/yaml_dsl/ros/devel -DCMAKE_INSTALL_PREFIX=/home/azumi-suzuki/workspace/yaml_dsl/ros/install -G Unix Makefiles
